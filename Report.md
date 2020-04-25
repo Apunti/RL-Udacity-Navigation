@@ -2,7 +2,8 @@
 
 [//]: # (Image References)
 
-[image1]: https://githhub.com/Apunti/RL-Udacity-Navigation/master/images/plot.png "Plot"
+[image1]: https://githhub.com/Apunti/RL-Udacity-Navigation/blob/master/images/plot.png "Plot"
+[image2]: https://githhub.com/Apunti/RL-Udacity-Navigation/blob/master/images/log.png "Log"
 
 # Learning algorithm
 
@@ -29,6 +30,7 @@ The hyperparameters used to train the agent are the following.
 # Plot of rewards
 
 ![Plot][image1]
+![Log][image2]
 
 We can see that the environment is solved around the episode 1800.
 
