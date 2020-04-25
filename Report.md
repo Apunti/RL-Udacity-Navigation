@@ -2,8 +2,8 @@
 
 [//]: # (Image References)
 
-[image1]: https://githhub.com/Apunti/RL-Udacity-Navigation/blob/master/images/plot.png "Plot"
-[image2]: https://githhub.com/Apunti/RL-Udacity-Navigation/blob/master/images/log.png "Log"
+[image1]: https://github.com/Apunti/RL-Udacity-Navigation/blob/master/images/plot.png "Plot"
+[image2]: https://github.com/Apunti/RL-Udacity-Navigation/blob/master/images/log.png "Log"
 
 # Learning algorithm
 
