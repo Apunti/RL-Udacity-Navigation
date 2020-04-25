@@ -32,7 +32,7 @@ The hyperparameters used to train the agent are the following.
 ![Plot][image1]
 ![Log][image2]
 
-We can see that the environment is solved around the episode 1800.
+We can see that the environment is solved around the episode 1300.
 
 # Ideas for Future Work
 
